@@ -1,0 +1,25 @@
+internal/services/zero_trust_gateway_certificate/resource.go
+  72d4c7e989aba3bb 67-69,98-158
+internal/services/zero_trust_gateway_certificate/resource_schema_test.go
+  72d4c7e989aba3bb 126-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "2026fe08a48c99a5a63bb59d427e45b4ffce5d46",
+  "prompts": {
+    "72d4c7e989aba3bb": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1b996b65bffe9YyUjtvMWZXx7g",
+        "model": "cloudflare-workers-ai/@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Alyssa Wang",
+      "messages": [],
+      "total_additions": 129,
+      "total_deletions": 0,
+      "accepted_lines": 129,
+      "overriden_lines": 0
+    }
+  }
+}
